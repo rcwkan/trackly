@@ -1,0 +1,47 @@
+{
+  "expo": {
+    "name": "Trackly",
+    "slug": "horse_race_hk_tips",
+    "version": "1.0.2",
+    "orientation": "default",
+    "icon": "./assets/icon.png",
+    "userInterfaceStyle": "light",
+    "newArchEnabled": true,
+    "splash": {
+      "image": "./assets/splash-icon.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "ios": {
+      "supportsTablet": true,
+      "bundleIdentifier": "app.rit.trackly"
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/adaptive-icon.png",
+        "backgroundColor": "#ffffff"
+      },
+      "edgeToEdgeEnabled": true,
+      "predictiveBackGestureEnabled": false,
+      "package": "app.rit.trackly",
+      "versionCode": 11
+    },
+    "web": {
+      "favicon": "./assets/favicon.png"
+    },
+    "extra": {
+      "eas": {
+        "projectId": "8d495917-6fbe-461a-8fc9-94474d54ae25"
+      }
+    },
+    "plugins": [
+      [
+        "react-native-google-mobile-ads",
+        {
+          "androidAppId": "ca-app-pub-5605412363416280~8543065651",
+          "iosAppId": "ca-app-pub-5605412363416280~6041025398"
+        }
+      ]
+    ]
+  }
+}

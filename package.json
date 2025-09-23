@@ -1,0 +1,37 @@
+{
+  "name": "trackly",
+  "version": "1.0.0",
+  "main": "index.tsx",
+  "scripts": {
+    "start": "expo start",
+    "android": "expo run:android",
+    "ios": "expo run:ios",
+    "web": "expo start --web"
+  },
+  "dependencies": {
+    "@expo/vector-icons": "^15.0.2",
+    "@react-native-async-storage/async-storage": "^2.2.0",
+    "@react-navigation/material-bottom-tabs": "^6.2.29",
+    "expo": "~54.0.7",
+    "expo-asset": "~12.0.8",
+    "expo-status-bar": "~3.0.8",
+    "papaparse": "^5.5.3",
+    "react": "19.1.0",
+    "react-native": "0.81.4",
+    "react-native-fast-tflite": "^1.6.1",
+    "react-native-gesture-handler": "~2.28.0",
+    "react-native-google-mobile-ads": "^15.7.0",
+    "react-native-paper": "^5.14.5",
+    "react-native-safe-area-context": "~5.6.0",
+    "react-native-screens": "~4.16.0",
+    "react-native-vector-icons": "^10.1.0"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.20.0",
+    "@types/react": "~19.1.0",
+    "@types/react-native": "^0.72.8",
+    "babel-preset-expo": "~54.0.0",
+    "typescript": "~5.9.2"
+  },
+  "private": true
+}
