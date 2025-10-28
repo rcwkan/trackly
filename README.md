@@ -1,4 +1,4 @@
-# Trackly
+u# Trackly
 ## React Native App
 
 ### Overview
@@ -72,6 +72,7 @@ The development process incorporated multiple AI platforms for model building an
 - Currently focusing on model fine-tuning and iterative updates based on user feedback.
  
 
- ### Closed Test in Google Play
- 1. Join this Google Group: https://groups.google.com/u/0/g/rit_tester
+ ### Google Play
+ 1. Webpage
+https://rcwkan.github.io 
  2. Download App: https://play.google.com/store/apps/details?id=app.rit.trackly
